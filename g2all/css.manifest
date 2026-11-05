@@ -1,11 +1,9 @@
 CACHE MANIFEST
-# almuthanna v2
 
 CACHE:
 ../img.jpg
-../logo.jpg
 ../style.css
-goldhen_2.4b18.12.bin
+goldhen_2.4b18.13.bin
 index.html
 css\lapse.js
 css\loader.js
@@ -23,3 +21,5 @@ css\ps4\patches\1102.bin
 
 NETWORK:
 *
+
+# rev 2026-11-06 Almuthanna
